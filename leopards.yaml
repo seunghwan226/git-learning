@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Sebastian
 
+<<<<<<< HEAD
 coach: Nicholas
+=======
+coach: Melissa
+>>>>>>> e67464f (Edit Leopards)
 
 members:
 - Linda
